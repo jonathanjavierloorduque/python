@@ -21,12 +21,15 @@ mi_func()
 
 def hello():
     print("Hi!")
-hello():
+hello()
 
-hello
+Hello
 
-def hello():
+def Hello():
     print("hello word!")
-hello():
+Hello()
+
+
+
 
 
