@@ -30,6 +30,45 @@ def Hello():
 Hello()
 
 
+def sayHi():
+    print("Hi!")
+sayHi()
+
+
+#Argumentos
+def print_whit_exclamation(word):
+    print(word+"!")
+print_whit_exclamation("spam")
+print_whit_exclamation("eggs")
+print_whit_exclamation("python")
+
+
+#¿Cuál es el resultado de este código?
+def print_double(x):
+    print(2*x)
+print_double(3)
+
+
+def print_sum_twice(x,y):
+    print(x+y)
+    print(x+y)
+print_sum_twice(5, 8)
+
+#Argumentos
+def function(variable):
+    variable += 1
+    print(variable)
+
+
+function (7)
+print(variable)
+
+x= int(input("numero"))
+def even(x):
+    if x%2 ==0:
+        print("Yes")
+    else:
+        print("No")
 
 
 
