@@ -70,5 +70,21 @@ def even(x):
     else:
         print("No")
 
+#Que me devuelva el valor mayor entre dos numeros
 
+def max(x, y):
+    if x >= y:
+        return x
+    else :
+        return y 
 
+print(max(4,7))
+z=max(8,5)
+print(z)
+
+# completa los espacios en blanco para definir una función que compare las loguitudes de 
+# sus argumentos y devuelva el más corto
+
+def shortest_string(x,y):
+    if len(x)<= len(y):
+        print(x)
