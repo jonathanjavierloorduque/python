@@ -1,0 +1,3 @@
+Jonathan: Hola ¿Puedo hablar contigo?
+Computadora:¿Hola? ¿Me puedes preguntar lo que desees?
+Jonathan: Sí claro. ¿Cuál es la repuesta a la vida?.
